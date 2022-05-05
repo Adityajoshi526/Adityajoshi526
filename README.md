@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Adityajoshi526
+- 👀 I’m interested in ... using data science and ML in improvising manufacturing industries process control and automation.
+- 🌱 I’m currently learning ... ML/AI with Python
+- 💞️ I’m looking to collaborate on ... working with a ML team to get hands-on experience on real world problems
+- 📫 How to reach me ... https://www.linkedin.com/in/aditya-joshi-578155120 ... drop me a msg and I will revert back
